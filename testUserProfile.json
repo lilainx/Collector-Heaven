@@ -1,0 +1,10 @@
+{
+    "collections": [{
+        "name": "test_collection",
+        "items": [{
+            "name": "test_item",
+            "description": "This is a test item"
+        }]
+    }],
+    "username": "test_user"
+}

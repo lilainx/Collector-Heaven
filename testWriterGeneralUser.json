@@ -1,0 +1,16 @@
+{
+    "collections": [{
+        "name": "testCollection",
+        "items": [
+            {
+                "name": "item1",
+                "description": ""
+            },
+            {
+                "name": "item2",
+                "description": ""
+            }
+        ]
+    }],
+    "username": "testUser"
+}

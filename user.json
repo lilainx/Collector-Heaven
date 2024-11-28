@@ -1,0 +1,138 @@
+{
+    "collections": [
+        {
+            "name": "Speed Champions",
+            "items": [
+                {
+                    "name": "Lamborghini Countach",
+                    "description": ""
+                },
+                {
+                    "name": "007 Aston Martin D85",
+                    "description": ""
+                },
+                {
+                    "name": "Lotus Evija",
+                    "description": ""
+                },
+                {
+                    "name": "Fast & Furious 1970 Dodge Charger R/T",
+                    "description": ""
+                },
+                {
+                    "name": "Porsche 963",
+                    "description": ""
+                },
+                {
+                    "name": "BMW M4 GT3 & BMW M Hybrid V8",
+                    "description": ""
+                },
+                {
+                    "name": "Mercedes-AMG G63 & Mercedes-AMG SL63",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "name": "Technic",
+            "items": [{
+                "name": "Lamborghini Huracan Tecnica",
+                "description": ""
+            }]
+        },
+        {
+            "name": "Ideas",
+            "items": [
+                {
+                    "name": "Jazz Quartet",
+                    "description": ""
+                },
+                {
+                    "name": "Vincent van Gogh - The Starry Night",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "name": "LEGO Icons",
+            "items": [
+                {
+                    "name": "Vespa 125",
+                    "description": ""
+                },
+                {
+                    "name": "Porsche 911",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "name": "Creator 3-in-1",
+            "items": [
+                {
+                    "name": "Retro Camera",
+                    "description": ""
+                },
+                {
+                    "name": "Exotic Parrot",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "name": "Disney",
+            "items": [
+                {
+                    "name": "Walt Disney Tribute Camera",
+                    "description": ""
+                },
+                {
+                    "name": "Disney Celebration Train",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "name": "Botanical Collection",
+            "items": [
+                {
+                    "name": "Orchid",
+                    "description": ""
+                },
+                {
+                    "name": "Bonsai Tree",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "name": "Gifts",
+            "items": []
+        },
+        {
+            "name": "Harry Potter",
+            "items": [{
+                "name": "Hogwarts Moment: Potions Class",
+                "description": ""
+            }]
+        },
+        {
+            "name": "Other",
+            "items": [
+                {
+                    "name": "Lunar New Year Display",
+                    "description": ""
+                },
+                {
+                    "name": "Money Tree",
+                    "description": ""
+                },
+                {
+                    "name": "Lunar New Year Mickey Mouse",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "username": "default_user"
+}
