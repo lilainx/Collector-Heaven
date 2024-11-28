@@ -1,10 +1,10 @@
-# About Collections
-## What is Collections
-Collections is a platform for (lego, card, figurine, etc.) collectors to *share* their personal collections, *connect* with other collectors that share their interests, and *discover* new interests through browsing new collections curated by other users. Each user will have a *personal profile* with self-uploaded photos of pieces/items in their personal collection. Users can have more than one collection on their profile and are able to **pin** their favourite collections/items/profiles of their own or of other users. Double tap to like and save someone's collection...that collection will then be added to your profile.
+# About Collector Heaven
+## What is Collector Heaven
+Collector Heaven is a platform for (lego, card, figurine, etc.) collectors to *share* their personal collections, *connect* with other collectors that share their interests, and *discover* new interests through browsing new collections curated by other users. Each user will have a *personal profile* with self-uploaded photos of pieces/items in their personal collection. Users can have more than one collection on their profile and are able to **pin** their favourite collections/items/profiles of their own or of other users. Double tap to like and save someone's collection...that collection will then be added to your profile.
 
 For the first version of this project, users will be able to set up their personal profile and added their collections. 
 
-## Who will use Collections?
+## Who will use Collector Heaven?
 - Collectors of all shapes, types, and genres of collector items.
    - looking to expand their collections/interests
    - connect with other likeminded collectors
